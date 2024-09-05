@@ -26,8 +26,8 @@ Follow these steps to set up and run the project locally:
 First, clone the project repository to your local machine:
 
 ```bash
-git clone <your-repo-url>
-cd PowerPlantAPI
+git clone https://github.com/Said-Amir/powerplant-coding-challenge.git
+cd powerplant-coding-challenge
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
